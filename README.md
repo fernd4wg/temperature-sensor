@@ -1,5 +1,5 @@
 # Circuit Schematics
-Refer to the temp-sensor-report.pdf (Appending 5: Figures 6 & 7) for circuit schematics.
+Refer to the temp-sensor-report.pdf (Appendices 5: Figures 6 & 7) for circuit schematics.
 
 # Introduction
 For this project, the customer desired an electronic thermometer. Within this report, our decision process will be outlined and explained. This includes project requirements, project restraints, background research, and our decision matrix. It then goes on to explain how we built and tested the product till it reached its final form. Afterwards, there is a discussion on failures and future improvements.
